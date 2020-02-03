@@ -1,0 +1,4 @@
+pillow>=4.0.0
+reportlab==3.5.34
+pylint
+prospector
