@@ -12,33 +12,6 @@ from reportlab.lib.styles import ParagraphStyle
 from io import BytesIO
 
 # -------------------------------------
-# ABSTRABT
-# -------------------------------------
-# Reportlab have a simple system of building, but his creators
-# don't know explain very good the simple way for integrate all
-# his tools and know easy a fastly.
-#
-# Hyerarchy:
-#   Document - The document ifself
-#   |_PageTemplates - Designs of a pages for the document
-#     |_Frames - Designs of a frames tha represent places of information
-#       |_Flowables - Represent the informartion ifself that is putting in a frames
-#
-# Each frame can be component for one or more flowables
-# Each PageTemplate should be component for one or more Frame almost one
-# Each Document should be component for one or more PageTemplates almost one
-#
-# For build a document is neccesary setup the principals objects:
-#   * create a frame or many
-#   * with a frame created so create a PageTemplate or many PageTemplates and
-#     assign his frames to each page
-#   * finally create a document and assign the PageTemplates
-#
-# When the setup is complete is moment of begin to write the content.
-# for doing it, only begin to use flowables for write content, change of frame,
-# change of page, write text, draw whit canvas and a lot more.
-
-# -------------------------------------
 # SETUP
 # first step is configure the document.
 # -------------------------------------
