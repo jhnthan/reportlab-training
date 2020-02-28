@@ -4,7 +4,8 @@ a little examples made with reportlab for practice.
 
 ## NOTE
 
-At the moment of make this repository i using ReportLab V.3.5.34
+* At the moment of make this repository i using ReportLab V.3.5.34
+* I don't upload the pdf files resulting, because is better that you self experiment
 
 ## ABSTRACT
 
