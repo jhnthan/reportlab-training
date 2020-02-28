@@ -1,6 +1,6 @@
 # REPORTLAB training
 
-a little examples made with reportlab for practice.
+a little examples made with reportlab for practice. This is a ReportLab for stupids like me
 
 ## NOTE
 
@@ -12,6 +12,9 @@ a little examples made with reportlab for practice.
 Reportlab have a simple system of building, but his creators
 don't know explain very good the simple way for integrate all
 his tools of way easy a fastly.
+
+In ocassions, i think, that somes creators don't have a idea
+about his own tools. And when you uses it is more confusing.
 
 ## HYERARCHY
 
