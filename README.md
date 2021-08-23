@@ -47,7 +47,7 @@ When the setup is complete is moment of begin to write the content. For doing it
 * change of page
 * write text
 * draw tables
-* draw whit canvas
+* draw with canvas
 
 ## ¿AND NOW?
 
